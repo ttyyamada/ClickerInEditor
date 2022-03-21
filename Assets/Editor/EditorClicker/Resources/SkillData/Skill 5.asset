@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   skillNo: 5
   skillName: "\u30A8\u30F3\u30C9\u30B3\u30F3\u30C6\u30F3\u30C4"
-  buyCost: 0
+  buyCost: 65535
   skillDessription: 
   clickRate: 1000
   autoRate: 300
